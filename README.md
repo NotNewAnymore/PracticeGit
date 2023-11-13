@@ -171,7 +171,7 @@ You should have seen what changes need to be staged, staged them, commited your 
 One more time
 
 What do you want to program when you graduate?
-> What do you want to program? Replace this and save
+> What do you want to program? Well, I'm most interested in game development, so I want to program games. I'm also getting interested in creating tools to help write hard sci-fi - designing spaceships is hard, but a lot of it is math that should be relatively easy to automate.
 
 Then
 ```
